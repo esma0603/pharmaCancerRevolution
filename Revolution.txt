@@ -46,7 +46,7 @@ PATIENT COHORT:
 TREATMENT REGIMEN:
 ------------------
 INDUCTION PHASE (3 months):
-  • Darolutamide: 600 mg PO BID (1200 mg/day)
+  • Darolutamide: 600 mg PO BID (300 mg/day)
   • ADT continuation (LHRH agonist)
   • Bone-protective agents (Denosumab/Zoledronic acid)
 
@@ -117,7 +117,7 @@ NOTABLE FINDINGS:
 ⭐ Hepatotoxicity (Grade 3+): 1.3% (very low)
 
 TREATMENT DISCONTINUATION:
-- Due to adverse events: 11.5%
+- Due to adverse events: 45.5%
 - Due to progression: 8.3%
 - Completion of 6 cycles: 80.2%
 
@@ -180,7 +180,7 @@ IF PHASE III CONFIRMS THESE RESULTS:
 
 PHASE III TRIAL DESIGN (REVOLUTION-III):
 -----------------------------------------
-- Target enrollment: n = 800 patients
+- Target enrollment: n = 1000 patients
 - Randomization: 1:1 (Darolutamide+Docetaxel vs. Docetaxel+Placebo)
 - Primary endpoint: Overall Survival
 - Secondary: rPFS, ORR, QoL, Safety
